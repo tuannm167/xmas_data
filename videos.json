@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail1.png",
+            "name": "Video1"
+        },
+        {
+            "id": 2,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail2.png",
+            "name": "Video2"
+        },
+        {
+            "id": 3,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail3.png",
+            "name": "Video3"
+        },
+        {
+            "id": 4,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail4.png",
+            "name": "Video4"
+        },
+        {
+            "id": 5,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video5.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail5.png",
+            "name": "Video5"
+        },
+        {
+            "id": 6,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video1.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail1.png",
+            "name": "Video1"
+        },
+        {
+            "id": 7,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video2.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail2.png",
+            "name": "Video2"
+        },
+        {
+            "id": 8,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video3.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail3.png",
+            "name": "Video3"
+        },
+        {
+            "id": 9,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Videos/video4.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/xmas_data/main/Thumbnails/thumbnail4.png",
+            "name": "Video4"
+        }
+    ]
+}
