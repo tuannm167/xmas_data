@@ -33,25 +33,25 @@
         {
             "id": 6,
             "url": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Videos/video6.mp4",
-            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail1.png",
+            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail6.png",
             "name": "Santa Claus 6"
         },
         {
             "id": 7,
             "url": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Videos/video7.mp4",
-            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail2.png",
+            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail7.png",
             "name": "Santa Claus 7"
         },
         {
             "id": 8,
             "url": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Videos/video8.mp4",
-            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail3.png",
+            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail8.png",
             "name": "Santa Claus 8"
         },
         {
             "id": 9,
             "url": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Videos/video9.mp4",
-            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail4.png",
+            "thumbnail": "https://raw.githubusercontent.com/tuannm167/xmas_data/main/Thumbnails/thumbnail9.png",
             "name": "Santa Claus 9"
         }
     ]
