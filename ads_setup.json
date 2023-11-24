@@ -2,7 +2,9 @@
   "admob": {
     "adIds": [
       "appOpen",
-      "native"
+      "native",
+      "banner",
+      "interstitial"
     ],
     "banner": "ca-app-pub-2299291161271404/4065199091",
     "interstitial": "ca-app-pub-2299291161271404/2752117423",
@@ -13,7 +15,9 @@
   "applovin": {
     "adIds": [
       "appOpen",
-      "native"
+      "native",
+      "banner",
+      "interstitial"
     ],
     "banner": "541dc924cc0ec4ba",
     "interstitial": "541dc924cc0ec4ba",
