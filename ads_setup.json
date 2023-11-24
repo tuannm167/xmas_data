@@ -25,10 +25,6 @@
     "admob",
     "applovin"
   ],
-  "adorder": [
-    "admob",
-    "applovin"
-  ],
   "ad_splash": "admob",
   "total": 0,
   "loading_time": 10,
