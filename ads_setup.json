@@ -25,7 +25,7 @@
     "admob",
     "applovin"
   ],
-  "ad_splash": "admob",
+  "ad_splash": "",
   "total": 0,
   "loading_time": 10,
   "banner_collapse": true
